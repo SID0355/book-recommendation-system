@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+torch
+keras
+jupyter
+flask
+django
+pillow
+opencv-python
+sqlalchemy
